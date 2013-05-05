@@ -1,8 +1,3 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
-
 package mahout.utils;
 
 import java.io.IOException;
@@ -22,8 +17,8 @@ import org.apache.mahout.math.NamedVector;
 
 
 /**
- *
- * @author ndemir
+ * 
+ * @author Necati Demir <ndemir@demir.web.tr>
  */
 public class ClusterDumper extends AbstractJob{
 
